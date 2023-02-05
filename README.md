@@ -1,2 +1,2 @@
-# piCameraApp
-ReactJS App that provides a front-end interface for a RaspberryPi Server on the same network
+# piCamClientApp
+Front-End Client mobile app developed in React Native
